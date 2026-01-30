@@ -3,7 +3,7 @@ import { IServiceItem } from "@/types";
 const services: IServiceItem[] = [
   {
     id: 1,
-    title: "Mobile App Development",
+    title: "Web Development",
     icons: [
       "/skills/socket-io.png",
       "/skills/dart.svg",
@@ -12,13 +12,13 @@ const services: IServiceItem[] = [
       "/skills/firebase.svg",
     ],
     shortDescription:
-      "I create engaging mobile applications for your audience.",
+      "Modern, responsive, and SEO-friendly websites built to strengthen your online presence",
     description:
-      "I create captivating mobile apps from concept to deployment for iOS and Android. Using cutting-edge technologies, I ensure seamless performance, intuitive interfaces, and robust functionality that align with your business goals. Enjoy a flawless user experience and outstanding results.",
+      "I deliver stunning, user-friendly websites to establish your online presence. From simple sites to complex e-commerce platforms, I provide tailored solutions using the latest frameworks and technologies for a seamless, responsive, and SEO-friendly browsing experience. Enhance your online identity with quality.",
   },
   {
     id: 2,
-    title: "Web Development",
+    title: "Full-Stack Application Development",
     icons: [
       "/skills/redux.svg",
       "/skills/react.svg",
@@ -26,13 +26,13 @@ const services: IServiceItem[] = [
       "/skills/html.svg",
       "/skills/css.svg",
     ],
-    shortDescription: "I build visually stunning and user-friendly websites.",
+    shortDescription: "Scalable full-stack applications with secure backends and high-performance interfaces.",
     description:
-      "I deliver stunning, user-friendly websites to establish your online presence. From simple sites to complex e-commerce platforms, I provide tailored solutions using the latest frameworks and technologies for a seamless, responsive, and SEO-friendly browsing experience. Enhance your online identity with quality.",
+      "I build scalable, high-performance full-stack applications tailored to your business needs. From frontend interfaces to secure backend systems, I use modern technologies to deliver fast, reliable, and maintainable solutions that grow with your users and support long-term business success.",
   },
   {
     id: 3,
-    title: "Backend Development",
+    title: "WordPress & Shopify Development",
     icons: [
       "/skills/socket-io.png",
       "/skills/docker.png",
@@ -40,13 +40,13 @@ const services: IServiceItem[] = [
       "/skills/express.svg",
       "/skills/aws.svg",
     ],
-    shortDescription: "I create robust and scalable backend infrastructures.",
+    shortDescription: "Custom WordPress and Shopify solutions optimized for speed, flexibility, and conversions.",
     description:
-      "I enhance digital applications with robust, scalable backend infrastructures. I develop efficient database structures, APIs, and configure servers for optimal performance, security, and scalability, ensuring your applications handle high traffic and complex data management seamlessly. Rely on strong backend solutions.",
+      "I create powerful WordPress and Shopify websites designed for performance, flexibility, and conversions. From custom themes to advanced integrations, I ensure fast loading, secure setups, and easy content management, helping you launch, manage, and scale your online business with confidence.",
   },
   {
     id: 4,
-    title: "Product Strategy",
+    title: "SEO Optimization & Growth",
     icons: [
       "/skills/git.svg",
       "/images/collaboration.png",
@@ -55,13 +55,13 @@ const services: IServiceItem[] = [
       "/skills/ubuntu.png",
     ],
     shortDescription:
-      "I define goals, target audiences, and roadmap for success.",
+      "Data-driven SEO strategies to boost rankings, traffic, and long-term organic growth.",
     description:
-      "I collaborate to define clear goals, target audiences, and a success roadmap. My expertise in product ideation and market analysis ensures your product meets user needs and aligns with your business strategy for long-term growth and full potential realization. Drive your product's success with strategic planning.",
+      "I help businesses rank higher and attract quality traffic through data-driven SEO strategies. From keyword research and technical SEO to content optimization, I improve visibility, user engagement, and conversions while ensuring search-engine-friendly structure for long-term organic growth.",
   },
   {
     id: 5,
-    title: "DevOps",
+    title: "Google & Meta Ads Management",
     icons: [
       "/skills/docker.svg",
       "/skills/kubernetes.svg",
@@ -69,23 +69,23 @@ const services: IServiceItem[] = [
       "/skills/jenkins.svg",
       "/skills/terraform.svg",
     ],
-    shortDescription: "I streamline development and operations processes.",
+    shortDescription: "Targeted ad campaigns designed to maximize leads, sales, and return on investment.",
     description:
-      "I streamline development and operations processes through effective DevOps practices. I implement continuous integration and deployment pipelines, manage cloud infrastructure, and use containerization to ensure efficient, reliable, and scalable software delivery. Improve your workflow with DevOps solutions.",
+      "I design and manage high-converting Google and Meta ad campaigns to maximize ROI. Through audience targeting, conversion tracking, and continuous optimization, I help businesses increase leads, sales, and brand awareness using data-driven advertising strategies tailored to your goals.",
   },
   {
     id: 6,
-    title: "Database Management",
+    title: "AI Automation & Workflow Integration",
     icons: [
-      "/skills/mysql.svg",
-      "/skills/postgresql.svg",
-      "/skills/mongodb.svg",
-      "/skills/redis.svg",
-      "/skills/sqlite.svg",
+       "/skills/gohighlevel.jpeg",
+      "/skills/zapier.png",
+      "/skills/n8n.svg",
+      "/skills/aws.svg",
+      "/skills/firebase.svg",
     ],
-    shortDescription: "I manage and optimize your database systems.",
+    shortDescription: "Smart automations that streamline workflows, save time, and scale your business efficiently.",
     description:
-      "I manage and optimize your database systems for performance, reliability, and scalability. With expertise in SQL and NoSQL databases, I design schemas, write complex queries, and implement best practices for data integrity and security. Ensure your data is managed effectively and efficiently.",
+      "I automate business processes using AI-powered tools and integrations to save time and reduce manual effort. From CRM workflows to marketing automation, I build smart systems that streamline operations, improve efficiency, and allow you to focus on scaling your business.",
   },
 ];
 

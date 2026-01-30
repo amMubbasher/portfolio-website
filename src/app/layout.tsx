@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Mubbasher Yasin",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Mubbasher Yasin is a proficient Software Engineer and Full Stack Developer from Pakistan, skilled in web development and digital marketing.",
   robots: {
     index: true,
     follow: true,
@@ -66,16 +66,16 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "nikhil rajput",
-    "nikhil",
-    "nixrajput",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    "mubbasher yasin",
+    "mubbasher",
+    "mubbasher",
+    "mubbasher-yasin",
+    "yasin anjum",
+    "founder of mubbasher",
+    "mubbasher yasin anjum",
     "full stack developer",
-    "indian developer",
-    "nixrajput github",
+    "pa developer",
+    "amMubbasher github",
   ],
 };
 
@@ -98,7 +98,7 @@ const RootLayout = ({ children }: Readonly<{ children: ReactNode }>) => {
     <html lang="en" className={poppins.className}>
       {isDebug ? null : <GoogleAnalytics />}
 
-      <body className={isDebug ? "debug-screens" : ""}>
+      <body >
         {isDebug ? <WebVitals /> : null}
         <FloatingNavbar className="app_nav" navItems={navMenus} />
         <main>{children}</main>

@@ -1,38 +1,38 @@
 class Strings {
   static telegram = "Telegram";
-  static telegramLink = "https://telegram.me/nixrajput";
-  static telegramUsername = "nixrajput";
+  static telegramLink = "https://telegram.me/amMubbasher";
+  static telegramUsername = "amMubbasher";
 
   static github = "GitHub";
-  static githubLink = "https://www.github.com/nixrajput";
-  static githubUsername = "nixrajput";
+  static githubLink = "https://www.github.com/amMubbasher";
+  static githubUsername = "amMubbasher";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "https://www.linkedin.com/in/nixrajput";
-  static linkedInUsername = "nixrajput";
+  static linkedInLink = "https://www.linkedin.com/in/amMubbasher";
+  static linkedInUsername = "amMubbasher";
 
   static instagram = "Instagram";
-  static instagramLink = "https://www.instagram.com/nixrajput";
-  static instagramUsername = "nixrajput";
+  static instagramLink = "mailto:mubbasher.yasin.02@gmail.com";
+  static instagramUsername = "amMubbasher";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/nixrajput07";
-  static twitterUsername = "nixrajput07";
+  static twitterLink = "https://www.twitter.com/amMubbasher";
+  static twitterUsername = "amMubbasher";
 
   static email = "Email";
-  static primaryEmailLink = "mailto:nkr.nikhil.nkr@gmail.com";
-  static primaryEmail = "nkr.nikhil.nkr@gmail.com";
+  static primaryEmailLink = "mailto:mubbasher.yasin.02@gmail.com";
+  static primaryEmail = "mubbasher.yasin.02@gmail.com";
 
   static buyMeACoffee = "BuyMeACoffee";
-  static buyMeACoffeeLink = "https://buymeacoffee.com/nixrajput";
-  static buyMeACoffeeUsername = "nixrajput";
+  static buyMeACoffeeLink = "https://buymeacoffee.com/amMubbasher";
+  static buyMeACoffeeUsername = "amMubbasher";
 
   static koFi = "Ko-Fi";
-  static koFiLink = "https://ko-fi.com/nixrajput";
-  static koFiUsername = "nixrajput";
+  static koFiLink = "https://ko-fi.com/amMubbasher";
+  static koFiUsername = "amMubbasher";
 
-  static fullName = "Nikhil Rajput";
-  static shortName = "nixrajput";
+  static fullName = "Mubbasher Yasin";
+  static shortName = "amMubbasher";
 }
 
 export default Strings;
