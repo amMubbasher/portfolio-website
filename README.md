@@ -151,24 +151,24 @@ Thank you for considering sponsoring my work!
 
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/amMubbasher)][github]
+[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/amMubbasher)][linkedin]
+[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/amMubbasher)][instagram]
+[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/amMubbasher)][twitter]
+[![Telegram: mubbasheryasin](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/amMubbasher)][telegram]
+[![Gmail: mubbasher.yasin.02@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:mubbasher.yasin.02@gmail.com)][gmail]
 
 ## Activities
 
 ![Alt](https://repobeats.axiom.co/api/embed/39717929794c9e56c46a4313ee2c33347cf209d1.svg "Repobeats analytics image")
 
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
-[repo]: https://github.com/nixrajput/portfolio-nextjs
+[github]: https://github.com/amMubbasher
+[twitter]: https://twitter.com/amMubbasher
+[instagram]: https://instagram.com/amMubbasher
+[linkedin]: https://linkedin.com/in/amMubbasher
+[telegram]: https://telegram.me/amMubbasher
+[gmail]: mubbasher.yasin.02@gmail.com
+[repo]: https://github.com/amMubbasher/
 [issues]: https://github.com/nixrajput/portfolio-nextjs/issues
 [pulls]: https://github.com/nixrajput/portfolio-nextjs/pulls
 [license]: https://github.com/nixrajput/portfolio-nextjs/blob/master/LICENSE.md
