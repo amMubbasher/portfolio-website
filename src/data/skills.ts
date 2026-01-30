@@ -49,11 +49,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/sass.svg",
       },
-      {
-        title: "Redux Toolkit",
-        level: SkillLevel.Expert,
-        icon: "/skills/redux.svg",
-      },
+      // {
+      //   title: "Redux Toolkit",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/redux.svg",
+      // },
     ],
   },
   {
@@ -74,25 +74,20 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/socket-io.png",
       },
-      // {
-      //   title: "Nest.js",
-      //   level: SkillLevel.Beginner,
-      //   icon: "/skills/nestjs.svg",
-      // },
     ],
   },
   {
-    title: "Mobile App Development",
+    title: "AI Automation",
     items: [
       {
-        title: "Flutter",
+        title: "n8n",
         level: SkillLevel.Expert,
-        icon: "/skills/flutter.svg",
+        icon: "/skills/n8n.png",
       },
       {
-        title: "GetX",
+        title: "GoHighLevel",
         level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
+        icon: "/skills/gohighlevel.jpeg",
       },
     ],
   },
@@ -150,9 +145,9 @@ const skills: ISkillListItem[] = [
         icon: "/skills/firebase.svg",
       },
       {
-        title: "Ubuntu",
+        title: "Supabase",
         level: SkillLevel.Intermediate,
-        icon: "/skills/ubuntu.png",
+        icon: "/skills/supabase.svg",
       },
     ],
   },
@@ -173,6 +168,27 @@ const skills: ISkillListItem[] = [
         title: "Analytical Skills",
         level: SkillLevel.Expert,
         icon: "/images/analytical-skills.png",
+      },
+    ],
+  },
+
+  {
+    title: "Digital Marketing",
+    items: [
+      {
+        title: "Google Ads",
+        level: SkillLevel.Expert,
+        icon: "/images/google.svg",
+      },
+      {
+        title: "Meta Ads",
+        level: SkillLevel.Expert,
+        icon: "/images/meta.svg",
+      },
+      {
+        title: "SEO",
+        level: SkillLevel.Expert,
+        icon: "/images/seo.svg",
       },
     ],
   },

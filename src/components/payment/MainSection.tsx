@@ -10,13 +10,13 @@ const PaymentMainSection = () => {
     >
       <ConstrainedBox classNames="px-4 py-8 z-20 items-center justify-center">
         <p className="text-center text-2xl lg:text-3xl font-semibold mt-4 max-w-screen-md">
-          Thank you for choosing me to work on your project - I appreciate your
-          trust and partnership!
+          Thank you for trusting me with your project — I’m excited to help bring
+          your ideas to life.
         </p>
         <p className="text-center text-base mt-4 mb-8 max-w-screen-md">
-          Securely pay for your website, mobile app, or backend API development
-          project. I specialize in creating high-quality, customized solutions
-          tailored to your needs.
+          Securely complete your payment for web development, full-stack
+          applications, or digital solutions. I deliver reliable, scalable, and
+          high-quality systems tailored to your business goals.
         </p>
 
         <RazorPayButton />
